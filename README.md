@@ -9,3 +9,7 @@
 [Top 10 Programming Languages That Will Rule in 2021](https://www.geeksforgeeks.org/top-10-programming-languages-that-will-rule-in-2021/)
 
 -----
+
+[Top 10 Programming Languages Used by Global Companies](https://flyaps.com/blog/top-10-coding-languages-used-by-global-companies/)
+
+-----
