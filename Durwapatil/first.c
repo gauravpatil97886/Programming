@@ -1,4 +1,7 @@
+//Date : 13 Jan 2021
+
 #include <stdio.h>
+#include <stdlib.h>
 int main()
 {
   int x, y, z;
