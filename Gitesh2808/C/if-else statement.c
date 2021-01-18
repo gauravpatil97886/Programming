@@ -33,6 +33,15 @@ int main()
   return 0;
 }
 
+/*
+Output :
+  Enter any integer : 
+  12
+  
+  The given number 12 is even.. 
+*/
+
+
 
 
 // 2)  If-else statement :-
@@ -58,6 +67,15 @@ int main()
   }
   return 0;
 }
+
+/*
+Output :
+  Enter any integer : 
+  -15
+  
+  -15 is negative number..
+*/
+
 
 
 
@@ -89,6 +107,15 @@ int main()
   return 0;
 }
 
+/*
+Output :
+  Enter any integer : 
+  0
+  
+  The entered number is zero..
+*/
+
+
 
 
 // 4)  Nested-if :-
@@ -98,21 +125,27 @@ int main()
 #include<stdio.h>
 int main()
 {
-	int no=1;
-	if(no < 10)
-	{
-		if(no == 1)
-		{
-			printf("The value is : %d \n",no);
-		}
-		else
-		{
-			printf("The value is greater than 1");
-		}
-	}
-	else
-	{
-		printf("The value is greater than 10");
-	}
-	return 0;
+  int no=1;
+  if(no < 10)
+  {
+    if(no == 1)
+    {
+      printf("The value is : %d \n",no);
+    }
+    else
+    {
+      printf("The value is greater than 1");
+    }
+  }
+  else
+  {
+    printf("The value is greater than 10");
+  }
+  return 0;
 }
+
+/*
+Output :
+  The value is  : 1
+  
+*/
