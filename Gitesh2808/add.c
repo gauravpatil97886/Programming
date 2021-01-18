@@ -3,7 +3,7 @@
 //C Program to calculate the sum of two numbers
 
 #include <stdio.h>
-#include<stdlib.h>
+#include <stdlib.h>
 int main() {    
 
     int num1, num2, sum;
@@ -17,3 +17,12 @@ int main() {
     printf("%d + %d = %d", num1, num2, sum);
     return 0;
 }
+
+
+/*
+Output :
+Enter two integers: 12
+24
+
+12 + 24 = 36
+*/
