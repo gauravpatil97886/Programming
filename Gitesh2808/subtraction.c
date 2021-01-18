@@ -16,3 +16,12 @@ int main()
   
   return 0;
 }
+
+/*
+Output :
+Enter two numbers :
+23
+14
+
+Subtraction of two numbers is : 9
+*/
