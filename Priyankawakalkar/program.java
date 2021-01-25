@@ -64,3 +64,15 @@ class swap
     System.out.print(b);
   }
 }
+
+## square of a number square.java
+class square
+{
+public static void main(String args[])
+{
+int a,b;
+  a=10;
+  b=a*a;
+  System.out.print(b);
+}
+}
